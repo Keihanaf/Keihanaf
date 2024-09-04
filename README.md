@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" /> Hi , TikeCode</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" /> Hi , Everyone</h1>
 <h3 align="center">Software engineer , Front end Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timecode&label=Profile%20views&color=0e75b6&style=flat" alt="timecode" /> </p>
 
